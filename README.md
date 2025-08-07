@@ -1,5 +1,5 @@
 # Sorteador de Amigo Secreto
-Descripción del proyecto
+##Descripción del proyecto
 Este es un juego para sortear a un amigo secreto de forma aleatoria entre un grupo de participantes. Los usuarios pueden añadir nombres a una lista, y el programa se encarga de seleccionar a un ganador de manera aleatoria.
 
 ## Características principales
